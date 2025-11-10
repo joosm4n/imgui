@@ -80,4 +80,4 @@ examples/example_sdl3_vulkan/example_sdl3_vulkan
 ## Extras by Kieran
 bin*/
 bin-int*/
-.vcx.proj
+.vcxproj
